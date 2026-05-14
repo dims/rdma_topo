@@ -1,0 +1,12 @@
+[
+    {
+        "rdma_nic_pf_bdf": "0000:07:00.0",
+        "rdma_dma_bdf": "0000:03:00.0",
+        "gpu_bdf": "0000:06:00.0",
+        "subsystems": {},
+        "nvcx_complex_id": "test-uuid-1",
+        "rdma_nic_vpd_name": "ConnectX-8 NIC sample",
+        "numa_node": 3,
+        "nvme_bdf": "0000:0a:00.0"
+    }
+]
